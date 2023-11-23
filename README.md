@@ -28,7 +28,7 @@ This Flutter application displays a candlestick chart that mimics stock market d
 
 1. Clone this repository or download the source code:
    ```
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+   git clone https://github.com/girijaR20/candlestick_app.git
    ```
 2. Open the project in your preferred IDE or code editor.
 3. Run the following command in the project directory to download the dependencies:
